@@ -81,7 +81,7 @@ async def sniper_individual(conta, alvo):
             # ⚠️ MUDANÇA 2: ESPERA INTELIGENTE ⚠️
             # Se faltar mais de 2 segundos, dorme um pouco.
             # Isso evita que o robô tome FloodWait por tentar cedo demais.
-            if diferenca > 0.0:
+            if diferenca > 0.1:
                 await asyncio.sleep(0.01)
                 continue
 
