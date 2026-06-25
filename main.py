@@ -24,7 +24,7 @@ CONTAS = [
 
 # ⚠️ AJUSTE AQUI PARA O DIA DA SENHA ⚠️
 HORA_ALVO = 18
-MINUTO_ALVO = 4
+MINUTO_ALVO = 7
 
 async def sniper_individual(conta, alvo):
     """Função otimizada para VELOCIDADE MÁXIMA (Modo Turbo)"""
