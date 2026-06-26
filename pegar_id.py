@@ -5,7 +5,7 @@ from telethon.sessions import StringSession
 # --- PREENCHA SEUS DADOS AQUI ---
 API_ID = 31891041  # Seu API ID
 API_HASH = 'df20f87a534f0a73f437cb33985d1c95'
-SESSION = '1AZWarzcBu8BjA0mP3LhnQEHqXuIpmENfbmh9AAokCzgsVrcw0ukDuSUZZsXbLPI6eNHFjYI-_e7kdjBX55XSxJIZORu57KXc0F9F_-na8-tEcxz2rh817gc-T5z5U_B6zQEv_faK-QNpmng4MV8bEwXcrzqtox1eaJlyLZmjF-UnwmFr9fmAkJym-NXScqg0HOOuwgTdHeHY4c7cHz6pg_CYdOAizXILqsiEoErwOILZtE28MdX4NedSau-apUIcE7R6v_M9pU4KMWKZJXOsV7YIZroK3ivQQrALzzce_uzXvL8s2i4pC9Vpqp7WHo6OjryA2LRN9BrJQVrJLMxjmNR54UWIsck='
+SESSION = '1AZWarzcBu3sjUEZydvwgPx3QEYZXSXOgYhAFGCm1mYIOoU_qemZI61n6Kov5yagoQJPxke-VrSp5wvlEjqe6fBDKAqk4I6tSpUNRRMPTv9f0d9iOaLqe2h1Gru5wGMgeeWa0PJYG7ChnPKcFqdIZ4hBQbwfHCKytYudv11BHvGJAl6FATyjCUkIAQGUFrCjtaiXTzuQTRZRPigRQP_Fu2Tb5Toa5MVSgE4konWHSSgGC1mNNLrsWfoxK9eYzzoLcIm3o8qIgtPyKzwG2cWSyhVbI0hbtSjQ5gkklovh_T6o69L9rnq2nRiICriVE11xLCO9JIUuObOWOy0YxodAWlMxNMUIGijM='
 
 async def main():
     print("Conectando...")
