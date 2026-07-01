@@ -37,6 +37,7 @@ jobs:
           SESSION_JULIANA: ${{ secrets.SESSION_JULIANA }}
           SESSION_ANNE:   ${{ secrets.SESSION_ANNE }}
           SESSION_MIRIAM:   ${{ secrets.SESSION_MIRIAM }}
+          SESSION_THAYNA:   ${{ secrets.SESSION_THAYNA }}
 
 
         run: |
