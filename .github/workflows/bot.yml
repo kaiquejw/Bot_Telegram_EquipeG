@@ -35,7 +35,7 @@ jobs:
           TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           SESSION_MIRIAM:   ${{ secrets.SESSION_MIRIAM }}
-
+          SESSION_YASMIN:   ${{ secrets.SESSION_YASMIN }}
 
 
         run: |
